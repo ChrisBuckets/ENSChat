@@ -11,7 +11,8 @@ This project used REACT and Socket.io to accomplish real time messaging to any u
 
 ### Preview
 
-![Website Screenshot](https://i.imgur.com/912lKpq.png)
+<img src="https://i.imgur.com/912lKpq.png" width="450" height="450">
+
 ### Technologies
 
 * Javascript
